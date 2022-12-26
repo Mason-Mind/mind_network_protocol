@@ -1,2 +1,2 @@
-# Mind3_Protocol
-Knowledge Graph on Web3
+# Mind_Network_Protocol
+A decentralized privacy-preserving datalake
